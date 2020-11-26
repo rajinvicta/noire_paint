@@ -1,0 +1,84 @@
+{"frames": {
+
+"arrow_left.png":
+{
+	"frame": {"x":1057,"y":3,"w":233,"h":237},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":9,"y":6,"w":233,"h":237},
+	"sourceSize": {"w":250,"h":250}
+},
+"arrow_right.png":
+{
+	"frame": {"x":1057,"y":244,"w":233,"h":237},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":8,"y":6,"w":233,"h":237},
+	"sourceSize": {"w":250,"h":250}
+},
+"ballsy_score.png":
+{
+	"frame": {"x":3,"y":3,"w":1050,"h":120},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1050,"h":120},
+	"sourceSize": {"w":1050,"h":120}
+},
+"bushy_score.png":
+{
+	"frame": {"x":3,"y":127,"w":1050,"h":120},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1050,"h":120},
+	"sourceSize": {"w":1050,"h":120}
+},
+"fungi_score.png":
+{
+	"frame": {"x":3,"y":251,"w":1050,"h":120},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1050,"h":120},
+	"sourceSize": {"w":1050,"h":120}
+},
+"hardy_score.png":
+{
+	"frame": {"x":3,"y":375,"w":1050,"h":120},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1050,"h":120},
+	"sourceSize": {"w":1050,"h":120}
+},
+"play.png":
+{
+	"frame": {"x":1057,"y":485,"w":232,"h":233},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":11,"y":10,"w":232,"h":233},
+	"sourceSize": {"w":250,"h":250}
+},
+"spikey_score.png":
+{
+	"frame": {"x":3,"y":499,"w":1050,"h":120},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1050,"h":120},
+	"sourceSize": {"w":1050,"h":120}
+},
+"sticky_score.png":
+{
+	"frame": {"x":3,"y":623,"w":1050,"h":120},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1050,"h":120},
+	"sourceSize": {"w":1050,"h":120}
+}},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "ui.png",
+	"format": "RGBA8888",
+	"size": {"w":1293,"h":746},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:06ebf36bec5fa234c521df2999bc1521:0468bc8958feb7f8205181987cf309a7:5b04aa198265472a3c5f56958d78e97b$"
+}
+}

@@ -1,0 +1,37 @@
+{
+  "name": "noire_paint",
+  "version": "0.5.0",
+  "description": "paint game",
+  "main": "paint.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@hapi/hapi": "^19.1.1",
+    "hammerjs": "^2.0.8",
+    "inversify": "^5.0.1",
+    "phaser": "^3.22.0",
+    "reflect-metadata": "^0.1.12",
+    "ws": "^7.2.1"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.6.4",
+    "@babel/plugin-proposal-class-properties": "^7.8.3",
+    "@babel/preset-env": "^7.6.3",
+    "@babel/register": "^7.6.2",
+    "babel-plugin-minify-mangle-names": "^0.5.0",
+    "babel-preset-minify": "^0.5.1",
+    "babelify": "^10.0.0",
+    "chai": "^4.2.0",
+    "grunt": "^1.0.3",
+    "grunt-browserify": "^5.3.0",
+    "grunt-contrib-connect": "^2.0.0",
+    "grunt-contrib-uglify": "^4.0.0",
+    "grunt-contrib-watch": "^1.1.0",
+    "grunt-exorcise": "^2.1.1",
+    "grunt-notify": "^0.4.5",
+    "mocha": "^5.2.0"
+  }
+}
